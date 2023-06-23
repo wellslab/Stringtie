@@ -1,0 +1,2 @@
+#Files were run with default stringtie parameters and converted into a gtf
+./stringtie /data/.../file_name.sorted.bam > Output.gtf
