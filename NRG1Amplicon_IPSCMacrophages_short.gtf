@@ -1,0 +1,31 @@
+# ./stringtie /data/gpfs/projects/punim1739/AmpliconNRG1/Output_repeat/barcode90_H6_iMACs_beta_3.sorted.bam
+# StringTie version 2.2.1
+chr10	StringTie	transcript	5761379	5762650	1000	+	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; cov "35.028301"; FPKM "1919.050903"; TPM "961.944519";
+chr10	StringTie	exon	5761379	5761471	1000	+	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "1"; cov "34.000000";
+chr10	StringTie	exon	5762532	5762650	1000	+	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "2"; cov "35.831932";
+chr16	StringTie	transcript	3483451	3484787	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; cov "4.932203"; FPKM "270.214325"; TPM "135.447784";
+chr16	StringTie	exon	3483451	3483597	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; exon_number "1"; cov "4.891157";
+chr16	StringTie	exon	3484699	3484787	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; exon_number "2"; cov "5.000000";
+chr5	StringTie	transcript	14611560	14612213	1000	.	.	gene_id "STRG.3"; transcript_id "STRG.3.1"; cov "53.704891"; FPKM "2942.261719"; TPM "1474.839600";
+chr5	StringTie	exon	14611560	14612213	1000	.	.	gene_id "STRG.3"; transcript_id "STRG.3.1"; exon_number "1"; cov "53.704891";
+chr7	StringTie	transcript	148798620	148800674	1000	+	.	gene_id "STRG.4"; transcript_id "STRG.4.1"; cov "18.440580"; FPKM "1010.280640"; TPM "506.413788";
+chr7	StringTie	exon	148798620	148798677	1000	+	.	gene_id "STRG.4"; transcript_id "STRG.4.1"; exon_number "1"; cov "16.189655";
+chr7	StringTie	exon	148799275	148799388	1000	+	.	gene_id "STRG.4"; transcript_id "STRG.4.1"; exon_number "2"; cov "18.982456";
+chr7	StringTie	exon	148800502	148800674	1000	+	.	gene_id "STRG.4"; transcript_id "STRG.4.1"; exon_number "3"; cov "18.838150";
+chr8	StringTie	transcript	32614422	32742836	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.1"; cov "29588.265625"; FPKM "1621014.625000"; TPM "812550.687500";
+chr8	StringTie	exon	32614422	32614564	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.1"; exon_number "1"; cov "29579.091797";
+chr8	StringTie	exon	32616835	32616885	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.1"; exon_number "2"; cov "32453.324219";
+chr8	StringTie	exon	32727949	32728078	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.1"; exon_number "3"; cov "32449.404297";
+chr8	StringTie	exon	32742675	32742836	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.1"; exon_number "4"; cov "26398.425781";
+chr8	StringTie	transcript	32614422	32742836	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.2"; cov "6639.643066"; FPKM "363757.687500"; TPM "182337.375000";
+chr8	StringTie	exon	32614422	32614564	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.2"; exon_number "1"; cov "6647.567383";
+chr8	StringTie	exon	32616835	32616885	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.2"; exon_number "2"; cov "7293.519043";
+chr8	StringTie	exon	32727949	32728078	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.2"; exon_number "3"; cov "7292.639160";
+chr8	StringTie	exon	32742008	32742075	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.2"; exon_number "4"; cov "6568.265137";
+chr8	StringTie	exon	32742675	32742836	1000	+	.	gene_id "STRG.5"; transcript_id "STRG.5.2"; exon_number "5"; cov "5932.749512";
+chr8	StringTie	transcript	32754316	32764522	1000	+	.	gene_id "STRG.6"; transcript_id "STRG.6.1"; cov "74.039314"; FPKM "4056.297607"; TPM "2033.261963";
+chr8	StringTie	exon	32754316	32754474	1000	+	.	gene_id "STRG.6"; transcript_id "STRG.6.1"; exon_number "1"; cov "45.245281";
+chr8	StringTie	exon	32756403	32756529	1000	+	.	gene_id "STRG.6"; transcript_id "STRG.6.1"; exon_number "2"; cov "68.889763";
+chr8	StringTie	exon	32759306	32759436	1000	+	.	gene_id "STRG.6"; transcript_id "STRG.6.1"; exon_number "3"; cov "70.740456";
+chr8	StringTie	exon	32760200	32760406	1000	+	.	gene_id "STRG.6"; transcript_id "STRG.6.1"; exon_number "4"; cov "73.608696";
+chr8	StringTie	exon	32763748	32764522	1000	+	.	gene_id "STRG.6"; transcript_id "STRG.6.1"; exon_number "5"; cov "81.463226";
